@@ -1,4 +1,4 @@
-Seoul Bike Sharing Demand Prediction
+#**Seoul Bike Sharing Demand Prediction**
 Project Description
 Rental bikes have been introduced in many urban cities to enhance mobility comfort. It is crucial to make rental bikes available and accessible to the public at the right time to reduce waiting time. Hence, predicting the bike count required at each hour is essential for a stable supply of rental bikes in the city.
 
